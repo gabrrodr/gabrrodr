@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Finishing up 42 School<br>🌱 C/C++, Python, JavaScript, React Js<br>😄 I love design and animation<br>⚡ Trying to improve my front-end Skills!
+🔭 Common core 42 School graduate<br>🌱 C/C++, Python, JS, React Js<br>😄 I love design and animation<br>⚡ Trying to improve my front-end Skills!
 
 
 # 💻 Tech Stack:
